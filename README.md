@@ -1,5 +1,8 @@
 Link to view: https://www.figma.com/file/klVET9VTCdG8uSrrn3SWSv/Assignment-2-Sheridan-corses-app-testing-(Copy)?node-id=0%3A1&t=5rPWzvPg1edcjdSU-1
 
+Video link: https://drive.google.com/file/d/1y5k6iJ8fpIAkh-Uf4f4qDsHt6LugOmE4/view?usp=sharing
+
+
 # HCI-SheridanCoursesApp
 This program is a Sheridan courses app. A model for an application that allows users to login to keep track of their courses as an alternative to slate. 
 
